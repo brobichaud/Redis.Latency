@@ -1,0 +1,10 @@
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+Prop18=31,#ffffff
+Prop16=19,3
+Prop17=31,https://github.com/windows-tile.png
+[InternetShortcut]
+IDList=
+URL=https://github.com/Plasma/RedisLatencyChecker
+IconFile=https://assets-cdn.github.com/favicon.ico
+IconIndex=1
